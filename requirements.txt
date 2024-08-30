@@ -1,0 +1,5 @@
+mysql-connector-python
+langchain_ollama
+langchain
+langchain_groq
+tabulate
