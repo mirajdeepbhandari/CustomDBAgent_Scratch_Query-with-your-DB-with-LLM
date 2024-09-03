@@ -3,3 +3,8 @@ langchain_ollama
 langchain
 langchain_groq
 tabulate
+openpyxl
+pandas
+PyMySQL
+SQLAlchemy
+
